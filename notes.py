@@ -1,0 +1,18 @@
+Client ID = 3d19bbf5a65044c6a9ef4566ad0328c2
+Client Secret = e51cebfe1c0348e197086c50536a3e07
+
+https://accounts.spotify.com/authorize?client_id=3d19bbf5a65044c6a9ef4566ad0328c2&response_type=code&redirect_uri=https%3A%2F%2Fexample.com%2Fcallback%2F
+
+
+https://accounts.spotify.com/api/token?grant_type=authorization_code&code=AQDu9PvLn6wFhMAxtZutF9yb7tzWJ14Ksn0TMlPjlrXZiBCId5SmK7lga3ZTPVX4nOH_CNydWIcuuHKoiOQSFzRwIZ5qu878mE9UW22uJ_EVYaQDK-_Kvppie8Wi6sxDt6TGeaGYjSEWsbd81egeNB7albNaYJP1xP2vtC2kzKQj&redirect_uri=https%3A%2F%2Fexample.com%2Fcallback%2F
+
+
+
+curl -H "Authorization Basic M2QxOWJiZjVhNjUwNDRjNmE5ZWY0NTY2YWQwMzI4YzI6ZTUxY2ViZmUxYzAzNDhlMTk3MDg2YzUwNTM2YTNlMDc=" -d 'grant_type=authorization_code' -d 'code=AQARwFP1BqPHWl3lSFbX_vazealGMNrsx_ALTY5QEUc4CQ1fHJr8JyXDuqWsvVQuwAddgk7JemuL4THcQZDiwo08NF3M7wxiT3a0nJ-GPWbmZx5wP53qYz7DwomLQ1Z_jikJepnNVjwzygzSx7kxWQl9LRXYJG-HLo7Jg7rLZml-' -d 'redirect_uri=https%3A%2F%2Fexample.com%2Fcallback%2F' https://accounts.spotify.com/api/token
+
+
+grant_type="authorization_code"
+code="AQDu9PvLn6wFhMAxtZutF9yb7tzWJ14Ksn0TMlPjlrXZiBCId5SmK7lga3ZTPVX4nOH_CNydWIcuuHKoiOQSFzRwIZ5qu878mE9UW22uJ_EVYaQDK-_Kvppie8Wi6sxDt6TGeaGYjSEWsbd81egeNB7albNaYJP1xP2vtC2kzKQj"
+redirect_uri="https%3A%2F%2Fexample.com%2Fcallback%2F"
+
+

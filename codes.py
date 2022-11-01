@@ -1,0 +1,13 @@
+clientId = "3d19bbf5a65044c6a9ef4566ad0328c2"
+clientSecret = "e51cebfe1c0348e197086c50536a3e07"
+base64Code = "M2QxOWJiZjVhNjUwNDRjNmE5ZWY0NTY2YWQwMzI4YzI6ZTUxY2ViZmUxYzAzNDhlMTk3MDg2YzUwNTM2YTNlMDc="
+
+redirect_uri = "https://example.com/callback/"
+
+
+refreshToken = "AQChodrGYDoyY1UnRnNqD2i6REyDkEIgkiQpIns6irXXWhalVhjvTQUnCsDsLw57mrFO3eQnXgXfctbRetqBFvfLuYbXX32ctpOrbqahIjwERG4MWAFzPFbs4WPPw9NEhjk"
+
+
+code="AQCXmJeVhHOSxO-yg1jpg3kRTVjk7QQM0XFaqUsgYcZs7EXXBSMt3JWopFYYlVKKFtD_Epv6yFwJv0GV-ZuP5uCIt6WOFA0geSagg3BcblVToZGUYqPS6L9umcF9OzTZUjN9NAkyTv_VeEYggZX5kO56PuRQejuICnARrjQKMIDhQ5hrhvrvlEwxio0C9WwWbw1pzHSFlFkZZZg"
+
+
